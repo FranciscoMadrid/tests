@@ -1,0 +1,15 @@
+C:\Users\FMGAMER\source\repos\Wpf-Second\Wpf-Second\bin\Debug\Wpf-Second.exe.config
+C:\Users\FMGAMER\source\repos\Wpf-Second\Wpf-Second\bin\Debug\Wpf-Second.exe
+C:\Users\FMGAMER\source\repos\Wpf-Second\Wpf-Second\bin\Debug\Wpf-Second.pdb
+C:\Users\FMGAMER\source\repos\Wpf-Second\Wpf-Second\obj\Debug\Wpf-Second.csprojAssemblyReference.cache
+C:\Users\FMGAMER\source\repos\Wpf-Second\Wpf-Second\obj\Debug\MainWindow.g.cs
+C:\Users\FMGAMER\source\repos\Wpf-Second\Wpf-Second\obj\Debug\App.g.cs
+C:\Users\FMGAMER\source\repos\Wpf-Second\Wpf-Second\obj\Debug\Wpf-Second_MarkupCompile.cache
+C:\Users\FMGAMER\source\repos\Wpf-Second\Wpf-Second\obj\Debug\Wpf-Second_MarkupCompile.lref
+C:\Users\FMGAMER\source\repos\Wpf-Second\Wpf-Second\obj\Debug\MainWindow.baml
+C:\Users\FMGAMER\source\repos\Wpf-Second\Wpf-Second\obj\Debug\Wpf-Second.g.resources
+C:\Users\FMGAMER\source\repos\Wpf-Second\Wpf-Second\obj\Debug\Wpf_Second.Properties.Resources.resources
+C:\Users\FMGAMER\source\repos\Wpf-Second\Wpf-Second\obj\Debug\Wpf-Second.csproj.GenerateResource.cache
+C:\Users\FMGAMER\source\repos\Wpf-Second\Wpf-Second\obj\Debug\Wpf-Second.csproj.CoreCompileInputs.cache
+C:\Users\FMGAMER\source\repos\Wpf-Second\Wpf-Second\obj\Debug\Wpf-Second.exe
+C:\Users\FMGAMER\source\repos\Wpf-Second\Wpf-Second\obj\Debug\Wpf-Second.pdb
